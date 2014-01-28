@@ -1,0 +1,2 @@
+This is a simple template project that includes both ArcGIS Android Runtime and Geotrigger API.
+This project is intended for non-gradle based project (ie Eclipse).
